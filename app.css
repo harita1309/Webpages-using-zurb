@@ -1,0 +1,83 @@
+body{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background: rgba(255,192,203,0.7);
+}
+.top-bar{
+	background: pink;
+}
+.top-bar-left{
+	background: pink;
+}
+.inner{
+	background: pink;
+	width: 900px;
+	height: 1100px;
+	margin :0 auto;
+}
+.ham{
+	border-radius: 25px;
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+}
+.fi-social-reddit{
+	padding-left: 15px;
+	font-size: 4rem;
+	color:white;
+}
+.txt{
+	margin:60px 100px 30px;
+	width: 300px;
+	height: 60px;
+}
+.message{
+	padding-top: 8px;
+	background: white;
+	width :150px;
+	height:40px;
+	text-align: center;
+	font-size: 0.9rem;
+	border-radius: 25px;
+	margin-left:0px;
+}
+.firstimage{
+	max-width: 100%;width:300px;height:380px;
+}
+.image{
+	float: right;width:400px;height:425px;margin-top:-10px;
+	padding-right: 60px;
+}
+.images{
+	width:180px;
+	height: 250px;
+	padding-top: 20px;
+}
+.tble{
+	margin-top: 450px;margin-bottom: 0rem;
+}
+td{
+	padding-left: 10px;
+	width: 180px;
+	height : 310px;
+}
+.columns{
+	width: 450px;
+	height:270px;
+	float: right;
+	padding-left: inherit;padding-right: inherit;
+}
+.lastimage{
+	width:450px;
+	height: 260px;
+}
+.txt{
+	float: left;
+}
+.fi-arrow-right{
+	font-size: 0.8rem;
+}
+.row{
+	height: 270px;padding-left: 0px;padding-right:0px;
+}
